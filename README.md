@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Maroko7 (Michał Zybura)
-- 👀 I’m interested in developing in the programming industry
+- 👀 I’m interested in self-development in the programming industry
 - 🌱 I’m currently learning Java + Kotlin
 - 📫 How to reach me - michalzybura7@gmail.com
 
